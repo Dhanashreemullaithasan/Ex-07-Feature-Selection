@@ -19,9 +19,7 @@ Save the data to the file
 
 # CODE :
 ```
-Developed By: DHANASHREE.M
-Reg.No: 212221230018
-BOSTON DATASET:
+
 
 from sklearn.datasets import load_boston
 import pandas as pd
